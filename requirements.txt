@@ -7,4 +7,5 @@ seaborn
 sckit-learn
 catboost
 xgboost
+dill
 -e .
